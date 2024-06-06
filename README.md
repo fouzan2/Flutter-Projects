@@ -1,7 +1,7 @@
 # Flutter-Projects
 
 * [Project 1 -> Todoey : A very own To-Do List App]()
-* [Project 2 -> Bitcoin Tracker : A Simple CryptoCurrency Price Tracker]()
+* [Project 2 -> Bitcoin Tracker : A Simple CryptoCurrency Price Tracker](https://github.com/fouzan2/Crypto-Tracker)
 * [Project 3 -> Flash Chat : A Lightening Fast Messaging App]()
 * [Project 4 -> Clima : A Modern Weather App](https://github.com/fouzan2/weatherapp)
 * [Project 5 -> BMI Calculator : A Beautiful Health App]()
