@@ -6,3 +6,4 @@
 * [Project 4 -> Clima : A Modern Weather App](https://github.com/fouzan2/weatherapp)
 * [Project 5 -> BMI Calculator : A Beautiful Health App](https://github.com/fouzan2/bmi_health_app)
 * [Project 6 -> Quizzler : A True/False Quiz App](https://github.com/fouzan2/Quizzler)
+* [Project 7 -> Facebook UI Home Page]()
