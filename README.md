@@ -7,3 +7,4 @@
 * [Project 5 -> BMI Calculator : A Beautiful Health App](https://github.com/fouzan2/bmi_health_app)
 * [Project 6 -> Quizzler : A True/False Quiz App](https://github.com/fouzan2/Quizzler)
 * [Project 7 -> Facebook UI Home Page App](https://github.com/fouzan2/Facebook-UI/tree/main)
+* [Project 8 -> Personal Budgeting App with Cloud Firestore](https://github.com/fouzan2/personal_budgeting_app)
